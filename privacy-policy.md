@@ -2,7 +2,7 @@
 
 **Effective date:** October 31, 2026
 
-This privacy policy explains how **Pomplings: Cute Merge Puzzle** ("Pomplings", "the game", "we", "us") handles your information. Pomplings is made by **Bosan Tech Hub**.
+This privacy policy explains how **Pomplings: Cute Merge Puzzle** ("Pomplings", "the game", "we", "us") handles your information. Pomplings is made by **Bosan TecHub**.
 
 The short version: **Pomplings does not collect, store on our servers, share or sell any personal information.** The game works fully offline, and everything you do in it stays on your own device.
 
